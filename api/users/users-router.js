@@ -99,5 +99,4 @@ router.use((err, req, res, next) => {
   })
 })
 
-// do not forget to export the router
 module.exports = router
